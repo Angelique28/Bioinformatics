@@ -1,2 +1,2 @@
 # Bioinformatics
-Activation, Repression, Oscillator, and Negative-feedback Oscillator models built using python.
+Activation, Repression, Oscillator, and Negative-feedback Oscillator models built using Python.
